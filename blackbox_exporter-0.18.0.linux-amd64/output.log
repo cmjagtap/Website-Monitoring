@@ -1,5 +1,0 @@
-level=info ts=2021-05-30T04:36:16.269Z caller=main.go:212 msg="Starting blackbox_exporter" version="(version=0.18.0, branch=HEAD, revision=60c86e6ce5a1111f7958b06ae7a08222bb6ec839)"
-level=info ts=2021-05-30T04:36:16.269Z caller=main.go:213 msg="Build context" (gogo1.15.2,userroot@53d72328d93f,date20201012-09:46:31)=(MISSING)
-level=info ts=2021-05-30T04:36:16.269Z caller=main.go:225 msg="Loaded config file"
-level=info ts=2021-05-30T04:36:16.270Z caller=main.go:369 msg="Listening on address" address=:9115
-level=error ts=2021-05-30T04:36:16.270Z caller=main.go:371 msg="Error starting HTTP server" err="listen tcp :9115: bind: address already in use"

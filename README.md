@@ -8,6 +8,6 @@ This repository contains a grafana and prometheus setup to monitor running websi
 
 
 #### Setup 
-- Follow this [Article]() to setup grafana and prometheus for monitoring 
+- Follow this [Article](https://cmjagtap.medium.com/monitoring-websites-using-grafana-and-prometheus-69ccf936310c) to setup grafana and prometheus for monitoring 
 
 

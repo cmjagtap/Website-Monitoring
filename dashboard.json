@@ -34,8 +34,7 @@
       "dashLength": 10,
       "dashes": false,
       "datasource": {
-        "type": "prometheus",
-        "uid": "czSqdo0nk"
+        "type": "prometheus"
       },
       "fill": 1,
       "fillGradient": 0,
@@ -128,8 +127,7 @@
     },
     {
       "datasource": {
-        "type": "prometheus",
-        "uid": "czSqdo0nk"
+        "type": "prometheus"
       },
       "fieldConfig": {
         "defaults": {
@@ -222,8 +220,7 @@
       "dashLength": 10,
       "dashes": false,
       "datasource": {
-        "type": "prometheus",
-        "uid": "czSqdo0nk"
+        "type": "prometheus"
       },
       "fill": 1,
       "fillGradient": 0,
@@ -306,8 +303,7 @@
       "dashLength": 10,
       "dashes": false,
       "datasource": {
-        "type": "prometheus",
-        "uid": "czSqdo0nk"
+        "type": "prometheus"
       },
       "fill": 1,
       "fillGradient": 0,
@@ -386,8 +382,7 @@
     },
     {
       "datasource": {
-        "type": "prometheus",
-        "uid": "czSqdo0nk"
+        "type": "prometheus"
       },
       "fieldConfig": {
         "defaults": {
@@ -477,8 +472,7 @@
     },
     {
       "datasource": {
-        "type": "prometheus",
-        "uid": "czSqdo0nk"
+        "type": "prometheus"
       },
       "fieldConfig": {
         "defaults": {
@@ -550,8 +544,7 @@
     },
     {
       "datasource": {
-        "type": "prometheus",
-        "uid": "czSqdo0nk"
+        "type": "prometheus"
       },
       "fieldConfig": {
         "defaults": {
@@ -640,8 +633,7 @@
     },
     {
       "datasource": {
-        "type": "prometheus",
-        "uid": "czSqdo0nk"
+        "type": "prometheus"
       },
       "fieldConfig": {
         "defaults": {
@@ -731,8 +723,7 @@
     },
     {
       "datasource": {
-        "type": "prometheus",
-        "uid": "czSqdo0nk"
+        "type": "prometheus"
       },
       "fieldConfig": {
         "defaults": {
@@ -805,8 +796,7 @@
     },
     {
       "datasource": {
-        "type": "prometheus",
-        "uid": "czSqdo0nk"
+        "type": "prometheus"
       },
       "fieldConfig": {
         "defaults": {
@@ -989,8 +979,7 @@
           ]
         },
         "datasource": {
-          "type": "prometheus",
-          "uid": "czSqdo0nk"
+          "type": "prometheus"
         },
         "definition": "",
         "hide": 0,

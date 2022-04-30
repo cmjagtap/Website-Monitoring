@@ -27,6 +27,7 @@ services:
       - GF_PATHS_PROVISIONING=/var/lib/grafana/provisioning/
     volumes:
       - ./provisioning/:/var/lib/grafana/provisioning/
+      - ./grafana.ini:/etc/grafana/grafana.ini
     ports:
       - 3000:3000
     networks:

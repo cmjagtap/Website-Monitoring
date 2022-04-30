@@ -5,6 +5,8 @@
 
 ![Screenshot](https://miro.medium.com/max/2000/1*F0Zk8aWN5QrPDBRWrIh6vA.png)
 
+![Screenshot](https://miro.medium.com/max/1400/1*LcjWrI-rQZ_z1pMKJ2S0rw.png)
+
 
 #### DESCRIPTION:
 This repository contains a grafana and prometheus setup to monitor running websites.
